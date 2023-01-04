@@ -8,3 +8,5 @@ export const Box = styled('div', {
   border: '1px solid $gray600',
 })
 export interface BoxProps extends ComponentProps<typeof Box> {}
+
+Box.displayName = 'Box'
