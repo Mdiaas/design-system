@@ -48,7 +48,7 @@ export const Button = styled('button', {
         },
         '&:disabled': {
           color: '$gray200',
-          backgroundColor: '$gray200',
+          border: '1px solid $gray200',
         },
       },
       tertiary: {
