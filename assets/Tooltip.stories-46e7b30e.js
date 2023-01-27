@@ -1,0 +1,2 @@
+import{e as o,a as r}from"./index-87381a6c.js";import{j as t}from"./jsx-runtime-c2142c84.js";import"./index-42521bac.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-4bd83974.js";const p={title:"Surfaces/Tooltip",component:o,args:{children:t(r,{children:"Hover me"}),description:"Sexta-feira, 27 de janeiro de 2023"}},n={},c=["Primary"];export{n as Primary,c as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories-46e7b30e.js.map
